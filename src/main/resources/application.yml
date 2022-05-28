@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: simple-response-delay
+
+server:
+  port: 8888
